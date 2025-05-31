@@ -1,0 +1,9 @@
+
+{
+  "name": "Khanh Chi Practice Japanese",
+  "description": "An application for Khanh Chi to practice Japanese speaking with an AI tutor using speech-to-text and text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
